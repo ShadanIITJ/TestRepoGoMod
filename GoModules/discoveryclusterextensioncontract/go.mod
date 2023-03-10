@@ -1,3 +1,3 @@
-module github.com/ShadanIITJ/TestRepoGoMod/discoveryclusterextensioncontract
+module github.com/ShadanIITJ/TestRepoGoMod/GoModules/discoveryclusterextensioncontract
 
 go 1.19
