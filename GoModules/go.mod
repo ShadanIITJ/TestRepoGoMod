@@ -1,3 +1,3 @@
-module github.com/ShadanIITJ/TestRepoGoMod/GoModules
+module example.com
 
 go 1.19
